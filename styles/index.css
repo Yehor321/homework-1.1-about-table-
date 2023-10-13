@@ -1,0 +1,45 @@
+.content {
+    padding: 30px;
+}
+
+.big_text {
+    font-size: 21px;
+    Line-height: 28px;
+}
+
+.button {
+    display: flex;
+    border-radius: 3px;
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    Width: 242px;
+    height: 56px;
+}
+
+.smole_text {
+    font-size: 16px;
+    Line-height: 22px;
+    color: #8492A6;
+}
+
+.email {
+    font-size: 12px;
+    Line-height: 16px;
+    color: #8492A6;
+}
+
+.logo {
+    Width: 143px;
+    Height: 24px;
+}
+
+.blue {
+    color: blue;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
